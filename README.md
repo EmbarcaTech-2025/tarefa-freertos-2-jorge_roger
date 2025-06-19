@@ -5,6 +5,8 @@
 **Instituição:** EmbarcaTech - HBr  
 **Campinas, 18 de junho de 2025**
 
+## Link do projeto no Youtube: https://youtu.be/Jm8qSbdRBkM?si=09aVbqoJJM6A6uH1
+
 ---
 
 ## 🎯 Objetivo do Projeto
